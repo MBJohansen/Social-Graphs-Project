@@ -1,4 +1,3 @@
 theme: jekyll-theme-cayman
 title: Social Graphs
-tagline: Are movies the same?
-description: #
+exclude: ["ReadMe.md", "Rakefile", "License.md"]
