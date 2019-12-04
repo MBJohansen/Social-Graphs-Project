@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-title: Social Graphs
-exclude: ["ReadMe.md", "Rakefile", "License.md"]
+exclude: ["README.md", "Rakefile", "License.md"]
