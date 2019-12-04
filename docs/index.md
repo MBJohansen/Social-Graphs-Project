@@ -1,5 +1,8 @@
 
-
+---
+layout: default
+title: Homepage
+---
 
 # This is an H1
 
