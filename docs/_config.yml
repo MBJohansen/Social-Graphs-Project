@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+
+title: Social Graphs Project
+#tagline: Are movies the same?
+description: Are movies different?
+
+exclude: ["README.md", "Rakefile", "License.md"]
+
+#markdown: kramdown
