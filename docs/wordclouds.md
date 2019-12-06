@@ -5,8 +5,8 @@
 <details>
   <summary>Action</summary>
 
-  <img src="images/wordclouds/OldActionWC.jpg" width="50%"/>
-  <img src="images/wordclouds/NewActionWC.jpg" width="50%"/>
+  <img src="images/wordclouds/OldActionWC.jpg" class="wordcloud" width="40%"/>
+  <img src="images/wordclouds/NewActionWC.jpg" class="wordcloud" width="40%"/>
 
 </details>
 
