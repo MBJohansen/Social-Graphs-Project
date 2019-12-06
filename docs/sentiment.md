@@ -27,6 +27,8 @@ The average sentiment score for each genre can be seen in the table below.
 | Western | 3.8166423126657016 | 4.093394875659371 |
 | News | 4.053335552596539 | 4.323256752859757 |
 
+The average sentiment scores for each genre show that new movies generally are more happy than older movies, though only by a very small amount. There may be other reasons for the higher "happiness" scores. Since there is no significant change, the reason for the very small increase may be that the summaries were gathered from different sources, and the way of writting the summaries therefore is different.
+
 
 ### References
 [1] Dodds, P. S.; Harris, K. D.; Kloumann, I. M.; Bliss, C. A.; Danforth, C. M. (2011). Temporal Patterns of Happiness and Information in a Global Social Network: Hedonometrics and Twitter; https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026752
