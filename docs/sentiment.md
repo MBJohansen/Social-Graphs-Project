@@ -8,7 +8,7 @@ The sentiment scores was found using the LabMIT 1.0 worddlist which contains 10,
 
 The average sentiment score for each genre can be seen in the table below.
 
-| Genre | Old | New |
+| **Genre** | **Old** | **New** |
 | Drama | 3.99661822315808 | 4.2694862804145846 |
 | Comedy | 4.015428685827687 | 4.270641906604659 |
 | Fantasy | 3.8763600676484717 | 4.193858546237824 |
