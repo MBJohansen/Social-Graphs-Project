@@ -5,7 +5,10 @@
 <details>
 <summary>Action>
 <br>
-Image
+![Old Action Word Cloud](/images/wordclouds/OldActionWC.JPG)
+
+![New Action Word Cloud](/images/wordclouds/NewActionWC.JPG)
+
 </details>
 
 
