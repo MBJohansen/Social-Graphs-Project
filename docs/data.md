@@ -5,15 +5,12 @@ The data used in the project can be divided into two parts, the plot summaries a
 The data for the plot summaries...
 
 The data with movie titles and actor and actress names have been collected from IMDb by downloading some large datasets and then cleaning them to remove unwanted data.
-The datasets are described [here](https://www.imdb.com/interfaces/) and can be dowloaded from [here](https://datasets.imdbws.com/). Not all datasets from those links are used.
-The datasets used are: title_basics.tsv, name_basics.tsv, and title_principals.tsv.
-When downloading these they have a total size of more than 2.5 GB but after cleaning them it is cut down to two files and a total of 44 MB.
-This is because they contain data for almost anything such as short films, tv-series, movies, and so on, where only non-adult movies are considered here.
-Furthermore the datasets contain many columns where only a few ones are needed here.
+The datasets are described [here](https://www.imdb.com/interfaces/) and can be downloaded from [here](https://datasets.imdbws.com/).
+Only some of the datasets are downloaded, these are: title_basics.tsv, name_basics.tsv, and title_principals.tsv.
+After download and extracting these files their total size is more than 2.5 GB but after cleaning them it is cut down to two files and a total of 44 MB.
+This is because they contain data for short films, tv-series, movies, and so on, where only non-adult movies are considered.
+Furthermore the datasets contain many columns where only a few ones are needed.
 
 All cleaned data used in the project can be downloaded by clicking [here](/data/Data.zip).
-
-
-
 
 [Next page: Analysis](analysis.md)
