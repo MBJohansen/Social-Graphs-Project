@@ -1,25 +1,22 @@
 
 ## Word Clouds
 
-
+<!-- Markdown is not completely supported within <details> tag so images must be inserted with html syntax -->
 <details>
-  <summary>
-    Action
-  </summary>
+  <summary>Action</summary>
 
-  <br>
-
-  ![Old Action Word Cloud](images/wordclouds/OldActionWC.jpg)
+  <img src="images/wordclouds/OldActionWC.jpg" width="50%"/>
+  <img src="images/wordclouds/NewActionWC.jpg" width="50%"/>
 
 </details>
 
 
-![Old Action Word Cloud](images/wordclouds/OldActionWC.jpg)
+<!--![Old Action Word Cloud](images/wordclouds/OldActionWC.jpg)
 
 
 
 [New Action Word Cloud]: images/wordclouds/NewActionWC.jpg
-
+-->
 
 
 [Next page: Sentiment](sentiment.md)
