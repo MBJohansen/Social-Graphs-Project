@@ -6,4 +6,6 @@ description: Are movies different?
 
 exclude: ["README.md", "Rakefile", "License.md"]
 
-#markdown: kramdown
+markdown: kramdown
+kramdown:
+  parse_block_html: true
