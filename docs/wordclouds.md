@@ -5,7 +5,7 @@
 <details>
   <summary>Action</summary>
 
-  <img src="images/wordclouds/OldActionWC.jpg" width="100"/>
+  <img src="images/wordclouds/OldActionWC.jpg" width="50%"/>
 
 </details>
 
