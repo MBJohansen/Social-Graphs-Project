@@ -203,12 +203,13 @@ a {
 
   .wordcloud_left {
     float: left;
-    clear: both;
+    clear: left;
+    padding-right: 20px;
   }
 
   .wordcloud_right {
-    float: right;
-    clear: both;
+    float: left;
+    clear: right;
   }
 
   h1,
