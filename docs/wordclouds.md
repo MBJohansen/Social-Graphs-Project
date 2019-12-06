@@ -3,9 +3,12 @@
 
 
 <details>
-<summary>Action</summary>
-<br>
-![Old Action Word Cloud](images/wordclouds/OldActionWC.jpg)
+  <summary>
+    Action
+  </summary>
+  <br>
+
+  ![Old Action Word Cloud](images/wordclouds/OldActionWC.jpg)
 
 </details>
 
