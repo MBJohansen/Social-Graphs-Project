@@ -5,6 +5,8 @@
 <details>
   <summary>Action</summary>
 
+  <img src="images/wordclouds/OldActionWC.jpg"/>
+
   ![Old Action Word Cloud](images/wordclouds/OldActionWC.jpg)
 
 </details>
