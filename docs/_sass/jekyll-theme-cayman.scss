@@ -207,7 +207,10 @@ a {
     padding-right: 1.5%;
   }
 
-  #wordcloud_clear {
+  .wordcloud_clear {
+    float: left;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
     clear: right;
   }
 

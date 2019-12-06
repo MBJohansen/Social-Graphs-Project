@@ -8,7 +8,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <summary>Action</summary>
 
   <img src="images/wordclouds/OldActionWC.jpg" class="wordcloud" width="47%"/>
-  <img src="images/wordclouds/NewActionWC.jpg" class="wordcloud" id="wordcloud_clear" width="47%"/>
+  <img src="images/wordclouds/NewActionWC.jpg" class="wordcloud_clear" width="47%"/>
 
   Action blah is different because blah blah blah
 
