@@ -201,11 +201,13 @@ a {
     max-width: 100%;
   }
 
-  .wordcloud {
+  .wordcloud_left {
     float: left;
+    clear: left;
   }
 
-  .wordcloud_clear {
+  .wordcloud_right {
+    float: right;
     clear: right;
   }
 
