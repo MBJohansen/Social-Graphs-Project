@@ -6,7 +6,7 @@ Another way of analyzing whether movies have changed over time is with the use o
 
 The sentiment scores was found using the LabMIT 1.0 worddlist which contains 10,222 unique words. These words were found by compiling word lists from four different sources: Twitter, Google Books (English), music lyrics (1960 to 2007), and the New York Times (1987 to 2007). The happiness rating of the individual words were found using Amazon's Mechanical Turk, which evaluates each word by having 50 independent users rate it on a scale of 1 to 9 based on how happy it made them feel. 1 being sad and 9 being happy. The happiness rating of a word is then the average of these 50 ratings. [1]
 
-The sentiment scores for each genre can be seen in the picture below.
+The average sentiment score for each genre can be seen in the picture below.
 
 
 
