@@ -5,9 +5,9 @@
 <details>
 <summary>Action</summary>
 <br>
-![Old Action Word Cloud](/images/wordclouds/OldActionWC.JPG)
+![Old Action Word Cloud](images/wordclouds/OldActionWC.JPG)
 
-![New Action Word Cloud](/images/wordclouds/NewActionWC.JPG)
+![New Action Word Cloud](images/wordclouds/NewActionWC.JPG)
 </details>
 
 
