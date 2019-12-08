@@ -2,7 +2,7 @@
 ## Data
 
 The data used in the project can be divided into two parts, the plot summaries and the movie titles with actors and actress names.
-The data for the plot summaries...
+**TO DO: The data for the plot summaries...**
 
 The data with movie titles and actor and actress names have been collected from IMDb by downloading some large datasets and then cleaning them to remove unwanted data.
 The datasets are described [here](https://www.imdb.com/interfaces/) and can be downloaded from [here](https://datasets.imdbws.com/).
