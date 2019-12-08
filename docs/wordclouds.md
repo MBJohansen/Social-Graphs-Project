@@ -1,7 +1,7 @@
 
 ## Word Clouds
 
-Word clouds have been created for old movies and new movies separately for each of 18 different genres to see how they changed over time.
+Word clouds have been created for old movies and new movies separately for each of 17 different genres to see how they changed over time.
 
 
 **Click on a genre to expand and see the word clouds:**
