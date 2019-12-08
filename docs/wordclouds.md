@@ -14,17 +14,19 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Action blah is different because blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
-  <br>
+  <br><br>
 
 </details>
 
 <details>
   <summary>Adventure</summary>
 
-  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
-  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+  <img src="images/wordclouds/OldAdventureWC.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/NewAdventureWC.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
@@ -36,6 +38,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -45,6 +49,8 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
@@ -56,6 +62,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -65,6 +73,8 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
@@ -76,6 +86,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -85,6 +97,8 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
@@ -96,6 +110,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -105,6 +121,8 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
@@ -116,6 +134,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -125,6 +145,8 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
@@ -136,6 +158,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -145,6 +169,8 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
@@ -156,6 +182,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -166,6 +194,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
+  <br>
+
 </details>
 
 <details>
@@ -175,6 +205,8 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
   Text
+
+  <br>
 
 </details>
 
