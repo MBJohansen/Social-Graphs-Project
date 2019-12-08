@@ -16,13 +16,166 @@ Word clouds have been created for old movies and new movies separately for each 
 
 </details>
 
+<details>
+  <summary>Adventure</summary>
 
-<!--![Old Action Word Cloud](images/wordclouds/OldActionWC.jpg)
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
 
+  Text
 
+</details>
 
-[New Action Word Cloud]: images/wordclouds/NewActionWC.jpg
--->
+<details>
+  <summary>Animation</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Biography</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Comedy</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Crime</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Documentary</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Drama</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Fantasy</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>History</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Horror</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Music</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Musical</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Mystery</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>News</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Thriller</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
+<details>
+  <summary>Western</summary>
+
+  <img src="images/wordclouds/.jpg" class="wordcloud_left" width="50%"/>
+  <img src="images/wordclouds/.jpg" class="wordcloud_right" width="50%"/>
+
+  Text
+
+</details>
+
 
 
 [Next page: Sentiment](sentiment.md)

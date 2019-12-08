@@ -11,6 +11,7 @@ After download and extracting these files their total size is more than 2.5 GB b
 This is because they contain data for short films, tv-series, movies, and so on, where only non-adult movies are considered.
 Furthermore the datasets contain many columns where only a few ones are needed.
 
+### Download
 All cleaned data used in the project can be downloaded by clicking [here](/data/Data.zip).
 
 [Next page: Analysis](analysis.md)
