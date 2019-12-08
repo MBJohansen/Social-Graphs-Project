@@ -14,6 +14,8 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Action blah is different because blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
+  <br>
+
 </details>
 
 <details>
