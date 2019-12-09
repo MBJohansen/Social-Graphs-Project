@@ -16,7 +16,6 @@ The second approach utilized sentiment analysis to try and see the change in ton
 
 ### Future work
 
-But this could also be great
-
+For future work, it would be interesting to pull back the category of "old" movies to a much earlier release year to see if the results would then be different. Differences between the plots of movies may be more clear if the year gap is larger. Another option for further development would be to use tMDb for both the summaries of old movies and new movies, thereby reducing the potential bias of different sources. 
 
 [Back to Introduction](index.md)
