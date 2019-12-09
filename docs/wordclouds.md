@@ -26,7 +26,7 @@ Word clouds have been created for old movies and new movies separately for each 
 
   Text
 
-  <br>
+  <br><br>
 
 </details>
 
