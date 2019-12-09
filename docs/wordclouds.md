@@ -212,7 +212,7 @@ Word clouds have been created for old movies and new movies separately for each 
 
 
 ### Overall Comparison
-
+Overall there is not much change from old to new movies since many words in the word clouds fit their genre very well. Although this might also suggest that old and new movies have not changed over time, e.g. that new action movies are the same as old action movies based on this. It is also seen in some genres that the frequent words gets less violent from old to new. This is for example seen in the action, horror, and thriller genres, where the words "kill" are very frequent in the old movie plot descriptions but not in the new ones. **Why could this be?**
 
 
 
