@@ -7,7 +7,7 @@ The first approach revolved around word clouds within genres and presented some 
 
 The second approach utilized sentiment analysis to try and see the change in tone for the two categories of movies. This approach did not provide any clear evidence that new and old movies have really changed within genres. However, it is quite interesting to compare the sentiment of summaries between different genres. The values calculated does suggest slim differences between different genres but does not suggest that the plots of certain genres are more or less positive. This in itself is quite interesting, but does adhere to the general recipe of a movie. There will typically be some climax, conflict and resolution whether the movie is an animation film or action film. Therefore it is quite understandable to see the very similar sentiment scores. 
 
-**THE NETWORK**
+**TODO: THE NETWORK**
 
 
 
