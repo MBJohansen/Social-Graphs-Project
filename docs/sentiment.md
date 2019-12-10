@@ -1,17 +1,11 @@
 
 ## Sentiment
 
-Another way of analyzing whether movies have changed over time is with the use of sentiment scores. With sentiment scores it is possible to determine how "happy" a text is. This is useful in this context as the sentiment scores are able to tell whether movies have become more positive or negative over time or if the happiness has changed at all.   
+Another way of analyzing whether movies have changed over time is with the use of sentiment scores. With sentiment scores it is possible to determine how positive a text is. This is useful in this context as the sentiment scores are able to tell whether movies have become more positive or negative over time or if the happiness has changed at all.   
 
 The sentiment scores were found using the LabMIT 1.0 wordlist which contains 10,222 unique words. The words in this list were found by compiling word lists from four different sources: Twitter, Google Books (English), music lyrics (1960 to 2007), and the New York Times (1987 to 2007). The happiness rating of the individual words were found using Amazon's Mechanical Turk, which evaluates each word by having 50 independent users rate it on a scale of 1 to 9 based on how happy it made them feel. 1 being sad and 9 being happy. The happiness rating of a word is then the average of these 50 ratings. [[1]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026752)
 
-The average sentiment score for old and new movies for each genre can be seen in the table below. The average sentiment scores for each genre show that new movies generally are more happy than older movies, though only by a very small amount.
-
-
-- Language of plots is neutral writing
-  E.g.: Expected to see some difference in the genres based on the content of the movie, for example if a movie is violent its plot might include words which show this and thus be more negative. But due to the neutral language of the plot descriptions there is almost no change between genres and also an insignificant change from old to new.
-
-Since there is no significant change, the reason for the very small increase may be that the summaries were gathered from different sources, and the way of writing the summaries therefore is different.
+The average sentiment score for old and new movies for each genre can be seen in the table below. The average sentiment scores for each genre show that new movies generally are more happy than older movies, though only by a very small amount. Since there is no significant change, the reason for the very small increase may be that the summaries were gathered from different sources, and the way of writing the summaries therefore is different.
 
 | **Genre** | **Old** | **New** |
 | Drama | 3.99661822315808 | 4.2694862804145846 |
@@ -31,5 +25,9 @@ Since there is no significant change, the reason for the very small increase may
 | Musical | 3.9925137315680375 | 4.352340476880043 |
 | Western | 3.8166423126657016 | 4.093394875659371 |
 | News | 4.053335552596539 | 4.323256752859757 |
+
+Before computing the sentiment scores it was expected that different genres would have different sentiment scores based on the content of the movies in a particular genre. For example if a movie is violent its plot might include words which show this and thus be more negative. As seen in the table above this is not the case. The reason they are all basically the same could be because of the neutral language used for writing the plot summaries. A score of 5 is neutral, 1 is negative and 9 is positive. Therefore the plot summaries are actually all negative if not neutral. The reason for the slightly negative scores might be because of the structure of movies, where there is some conflict in the beginning of the story and then this conflict will be resolved at the end. The change from old to new movies are very small ranging from around 0.2 to 0.4 and the reason for this insignificant change is probably also due to the neutral language. 
+
+
 
 [Next page: Network](network.md)
