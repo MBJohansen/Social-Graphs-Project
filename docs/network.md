@@ -10,7 +10,7 @@ The initial analysis of the network included making a degree distribution.
 
 ![](images/DegreeDistribution.jpg)
 
-It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely
+It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely many small independent movies. Furthermore there are many movies with an extremely high degree. Many of the 
 
 When exploring the dominance of certain actors within a given genre, the notebook show that some actors does indeed appear in many different movies within the same genre and these film may thus seem more similar. Actors which seemed to dominate certain genres was mostly seen in Asian films. The reason for this may be that Asia produces a lot of films where the same popular actor is used again and again.      
 
