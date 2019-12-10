@@ -10,7 +10,7 @@ The initial analysis of the network included making a degree distribution.
 
 ![](images/DegreeDistribution.jpg)
 
-It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely 
+It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely many small independent movies. Furthermore there are many movies with an extremely high degree. Many of the 
 
 
 [Next page: Conclusion](conclusion.md)
