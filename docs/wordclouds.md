@@ -48,7 +48,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldBiographyWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewBiographyWC.jpg" class="wordcloud_right" width="50%"/>
 
-  In the biography genre the words "one" and "life" occur often for both old and new movies, which makes sense since biographies often revolve around the life of some person. Notably the word "documentary" are present in the word cloud for new movies which is a clear sign of genres being mixed since many movies include several genres. Furthermore the word "film" occurs frequently in the plot descriptions. This could be due to the type of genre since a biography is often based on facts and the word "film" is also seen frequently in plot descriptions for the genres; Documentary, History, and News which might be because of how a documentary plot (or other fact based movie) is written. It might for example be natural to write that this film is about some interesting person and his/her fight against something. While in other fictional movies it might not be natural to write "this film is about". 
+  In the biography genre the words "one" and "life" occur often for both old and new movies, which makes sense since biographies often revolve around the life of some person. Notably the word "documentary" are present in the word cloud for new movies which is a clear sign of genres being mixed since many movies include several genres. Furthermore the word "film" occurs frequently in the plot descriptions. This could be due to the type of genre since a biography is often based on facts and the word "film" is also seen frequently in plot descriptions for the genres; Documentary, History, and News which might be because of how a documentary plot (or other fact based movie) is written. It might for example be natural to write "this film is about..." While in other fictional movies it might not be natural to write "this film is about".
 
   <br><br>
 
@@ -108,7 +108,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldFantasyWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewFantasyWC.jpg" class="wordcloud_right" width="50%"/>
 
-  Again there are several words included in both old and new movie plot description which have also been used in many previous plot descriptions. These are for example "find" and "one" which are used for both old and new and "world" and "life" which is used much more for new movies. For old movies the words "back" and "return" are used much more frequently than for new movies. This suggests that new fantasy movies are becoming more diverse as they do not really contain any clear genre specific words whereas old fantasy movies seem to be more similar to adventure and action movies in general suggesting a more narrow genre mixing.
+  Again there are several words included in both old and new movie plot descriptions which have also been used in many previous plot descriptions. These are for example "find" and "one" which are used for both old and new and "world" and "life" which is used much more for new movies. For old movies the words "back" and "return" are used much more frequently than for new movies. This suggests that new fantasy movies are becoming more diverse as they do not really contain any clear genre specific words whereas old fantasy movies seem to be more similar to adventure and action movies in general suggesting a more narrow genre mixing.
 
   <br><br>
 
@@ -144,7 +144,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldMusicWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewMusicWC.jpg" class="wordcloud_right" width="50%"/>
 
-  The music genre contains the common words of "film" again but also contains a lot of understandable genre specific words. These words include "music", "band", "concert", and many more. It is quite clear that the new and old movies both clearly describe music movies and there does not seem to be a major shift in the description of this type of movie. However, it should be mentioned that new movies include more of the general words similar to those seen in adventure. This may suggest that new music movies have become more cinematic as opposed to factual.
+  The music genre contains the common word "film" again but also contains a lot of understandable genre specific words. These words include "music", "band", "concert", and many more. It is quite clear that the new and old movie plots both clearly describe music movies and there does not seem to be a major shift in the description of this type of movie. However, it should be mentioned that new movies include more of the general words similar to those seen in adventure. This may suggest that new music movies have become more cinematic as opposed to factual.
 
   <br><br>
 
@@ -192,7 +192,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldThrillerWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewThrillerWC.jpg" class="wordcloud_right" width="50%"/>
 
-  The words "find" and "one" are very frequent in both new and old thriller movie plots, where "life" is more frequent in new movie plots and "kill" more frequent in old movie plots. For old movies plots the words "police" and "take" are more frequent, in fact "police" is not present at all for new movies. Instead words like "friend", "family" and "young" are more frequent. This is pretty interesting as it suggests a change in the common plot of thrillers. Old thrillers seem to be quite simliar to new crime movies, whereas new thrillers seem much more broad. New thrillers also seem to be more centered around families rather than police work.
+  The words "find" and "one" are very frequent in both new and old thriller movie plots, where "life" is more frequent in new movie plots and "kill" more frequent in old movie plots. For old movies plots the words "police" and "take" are more frequent, in fact "police" is not present at all for new movies. Instead words like "friend", "family" and "young" are more frequent. This is pretty interesting as it suggests a change in the common plot of thrillers. Old thrillers seem to be quite similar to new crime movies, whereas new thrillers seem much more broad. New thrillers also seem to be more centered around families rather than police work.
 
   <br><br>
 
@@ -204,7 +204,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldWesternWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewWesternWC.jpg" class="wordcloud_right" width="50%"/>
 
-  As seen in the word clouds above, old and new western movies are very similar and it is very clear what entities are often in western movies, such as a "town", "outlaws", "sheriff", and "man" or "men" who are fighting the outlaws to protect the town and their family. Again the word "one" appears frequently in both, where "life" again is much more frequent in new. The old movie plots contain the words "kill" and "killed" more frequently than the new movie plots. Furthermore words like "take", "back", "horse", and "indian" are more frequent for the old movies.
+  As seen in the word clouds above, old and new western movies are very similar and it is very clear what entities are often in western movies, such as "town", "outlaws", "sheriff", and "man" or "men" who are fighting the outlaws to protect the town and their family. Again the word "one" appears frequently in both, where "life" again is much more frequent in new. The old movie plots contain the words "kill" and "killed" more frequently than the new movie plots. Furthermore words like "take", "back", "horse", and "indian" are more frequent for the old movies.
 
   <br><br>
 
@@ -214,7 +214,7 @@ Word clouds have been created for old movies and new movies separately for each 
 ### Overall Comparison
 Overall there is not much change from old to new movies since many words in the word clouds fit their genre very well. Although this might also suggest that old and new movies have not changed over time, e.g. that new action movies are the same as old action movies based on this. It is also seen in some genres that the frequent words become less violent from old to new. This is for example seen in the action, horror, and thriller genres, where the words "kill" are very frequent in the old movie plot descriptions but not in the new ones.
 
-From the word clouds it seems that movies are becoming more general in the sense that genres are mixing or not focusing so much on the same content. An example of this could be the animation genre where specific names of classic cartoons are dominating the old movie plots where for the new movies they are no dominant characters or plot lines.
+From the word clouds it seems that movies are becoming more general in the sense that genres are mixing or not focusing so much on the same content. An example of this could be the animation genre where specific names of classic cartoons are dominating the old movie plots where for the new movies there are no dominant characters or plot lines.
 
 
 
