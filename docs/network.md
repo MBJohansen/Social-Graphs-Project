@@ -1,7 +1,14 @@
 
 ## Network
-A network was build to examine whether certain actors dominate certain genres, in the sense that the same actors stars in many different movies from the same genre.
+A network was build to examine whether certain actors dominate certain genres, in the sense that the same actors star in many different movies from the same genre.
 
-The network consists of movies as nodes and actors as edges. If an actor stars in two different movies, these movies are connected with an edge. Nodes and edges also contains different attributes. A movie node contains the name of the movie and the genre of the movie whereas the edges only contains the actor name which connects two nodes.
+The network consists of movies as nodes and actors as edges. If an actor stars in two different movies, these movies are connected with an edge. Nodes and edges also contain different attributes. A movie node contains the name of the movie and the genres of the movie whereas the edges only contain the actor names which connects two nodes.
+
+The network consists of 527345 different movies (nodes) and 19461220 edges, where each edge can represent one or more actors, i.e. each edge contains all the actors connecting the two given movies. Because of the size of the network it can not be shown, as it would be incomprehensible.
+
+The initial analysis of the network included making a degree distribution.
+
+![](images/DegreeDistribution.jpg)
+
 
 [Next page: Conclusion](conclusion.md)
