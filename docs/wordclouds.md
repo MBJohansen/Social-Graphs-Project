@@ -120,7 +120,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldHistoryWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewHistoryWC.jpg" class="wordcloud_right" width="50%"/>
 
-  Once again "one" and "life" is present in both word clouds as well as the word "film". In the word cloud for new history movies the word documentary is present which it is not for old movies. This can again be a sign of mixing genres. Furthermore there is more focus on war in old history movies since the word "war" is more frequently used as well as words like "death", "battle", "soldier", "army" and "Hitler". Some of these words are also present in the new history movie word cloud but much less frequently.  
+  Once again "one" and "life" is present in both word clouds as well as the word "film". In the word cloud for new history movies the word "documentary" is present which it is not for old movies. This can again be a sign of mixing genres. Furthermore there is more focus on war in old history movies since the word "war" is more frequently used as well as words like "death", "battle", "soldier", "army" and "Hitler". Some of these words are also present in the new history movie word cloud but much less frequently.  
 
   <br><br>
 
@@ -144,7 +144,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldMusicWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewMusicWC.jpg" class="wordcloud_right" width="50%"/>
 
-
+  The music genre contains the common words of "film" again but also contains a lot of understandable genre specific words. These words include "music", "band", "concert", and many more. It is quite clear that the new and old movies both clearly describe music movies and there does not seem to be a major shift in the description of this type of movie. However, it should be mentioned that new movies include more of the general words similar to those seen in adventure. This may suggest that new music movies have become more cinematic as opposed to factual. 
 
   <br><br>
 
