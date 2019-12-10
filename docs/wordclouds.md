@@ -84,7 +84,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldDocumentaryWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewDocumentaryWC.jpg" class="wordcloud_right" width="50%"/>
 
-  For the documentary genre both old and new plot descriptions often use the words "documentary" and "film". The words "world" and "life" are used for both old and new movies but again more often for new movies. Furthermore words such as "year", "story", "family", "war", "people" and "one" are used for both old and new movies, some more in old and some more in new movies.
+  For the documentary genre both old and new plot descriptions often use the words "documentary" and "film". The words "world" and "life" are used for both old and new movies but again more often for new movies. Furthermore words such as "year", "story", "family", "war", "people" and "one" are used for both old and new movies, some more in old and some more in new movies. Interestingly, the categories do not seem to be highly related to the events of the time periods. This would likely be different if the ranges were smaller. 
 
   <br><br>
 
