@@ -156,7 +156,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldMusicalWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewMusicalWC.jpg" class="wordcloud_right" width="50%"/>
 
-  Several of the more frequent words occur in both old and new movie plots. Frequent words like "life" and "film" occurs often in new movies but as much in old ones. Other frequent words like "one", "love", "find", and "father" occurs more often in old movies compared to new ones. Furthermore the word "music" occurs more often in new movie plots as well as the word "musical" which is not in the old movie plots at all.
+  Several of the more frequent words occur in both old and new movie plots. Frequent words like "life" and "film" occur often in new movies but not as much in old ones. Other frequent words like "one", "love", "find", and "father" occur more often in old movies compared to new ones. Furthermore the word "music" occurs more often in new movie plots as well as the word "musical" which is surprisingly not in the old movie plots at all.
 
   <br><br>
 
@@ -168,7 +168,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldMysteryWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewMysteryWC.jpg" class="wordcloud_right" width="50%"/>
 
-  The words "find", and "one" are once again very frequent in both new and old. The word "life" is very frequent for new movies but not as much for old movies. In the old movie plots the words "killer", "killed", "kill", and "murder" are much more frequent compared to new movies which is the same pattern as seen in the action and horror genres. Words like "mystery" and "mysterious" is more frequent in the new movie plots compared to the old ones.
+  The words "find", and "one" are once again very frequent in both new and old. The word "life" is very frequent for new movies but not as much for old movies. In the old movie plots the words "killer", "killed", "kill", and "murder" are much more frequent compared to new movies which is the same pattern as seen in the action and horror genres. Words like "mystery" and "mysterious" is more frequent in the new movie plots compared to the old ones. This suggests that mystery films may have become less based on violence in the more recent years. 
 
   <br><br>
 
@@ -180,7 +180,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldNewsWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewNewsWC.jpg" class="wordcloud_right" width="50%"/>
 
-  In the news genre the word cloud for old movie plots contain many words and names like "bosnian", "Yugoslavia", "Kosovo", "serb", and "yugoslav" which are not present in the new news genre word cloud. Instead again words like "one", "life", "world", and "new" are very frequent. Furthermore the word "documentary" is frequent in the new movie plots which again makes sense due to the genres that might overlap.
+  In the news genre the word cloud for old movie plots contain many words and names like "bosnian", "Yugoslavia", "Kosovo", "serb", and "yugoslav" which are not present in the new news genre word cloud. Instead again words like "one", "life", "world", and "new" are very frequent. Furthermore the word "documentary" is frequent in the new movie plots which again makes sense due to the genres that might overlap. The old news movies seem to be indicative of the ongoing events whereas the new movies seem to be more diverse due to the higher frequency of very general words. 
 
   <br><br>
 
