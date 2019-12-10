@@ -1,8 +1,8 @@
 
 ## Network
-A network was build to examine whether certain actors dominate certain genres, in the sense that the same actors star in many different movies from the same genre.
+A network was built to examine whether certain actors dominate certain genres, in the sense that the same actors star in many different movies within the same genre.
 
-The network consists of movies as nodes and actors as edges. If an actor stars in two different movies, these movies are connected with an edge. Nodes and edges also contain different attributes. A movie node contains the name of the movie and the genres of the movie whereas the edges only contain the actor names which connects two nodes.
+The network consists of movies as nodes and actors as edges. If an actor stars in two different movies, those movies are connected with an edge. Nodes and edges also contain different attributes. A movie node contains the name of the movie and the genres of the movie whereas the edges only contain the actor names which connects two nodes.
 
 The network consists of 527,345 different movies (nodes) and 19,461,220 edges, where each edge can represent one or more actors, i.e. each edge contains all the actors connecting the two given movies. Because of the size of the network it can not be shown, as it would be incomprehensible.
 
@@ -10,11 +10,11 @@ The initial analysis of the network included making a degree distribution.
 
 ![](images/DegreeDistribution.jpg)
 
-It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely many small independent movies. Furthermore there are many movies with an extremely high degree. Many of the
+It is seen that the degree distribution follows a power-law distribution. Many movies have a very low degree which makes sense since there are likely many small independent movies. Furthermore there are many movies with an extremely high degree which suggests that there are many movies using the same actors. This could include sequels to movies and is especially relevant in the Asian movies. 
 
-When exploring the dominance of certain actors within a given genre, the notebook show that some actors does indeed appear in many different movies within the same genre and these film may thus seem more similar. Actors which seemed to dominate certain genres was mostly seen in Asian films. The reason for this may be that Asia produces a lot of films where the same popular actor is used again and again. This part of the analysis was also affected by the fact that the dataset is heavily dominated by Asian actors and films. This meant that none of the popular actors seen in Hollywood movies did not appear in near as many films as the Asian actors.
+When exploring the dominance of certain actors within a given genre, the notebook shows that some actors do indeed appear in many different movies within the same genre and these films may thereby seem more similar. Actors which seemed to dominate certain genres were mostly seen in Asian films. The reason for this may be that Asia simply produces a lot of films and tend to star the same popular actors again and again. This part of the analysis was also affected by the fact that the dataset is heavily dominated by Asian actors and films. This meant that none of the popular actors seen in Hollywood movies would appear in near as many films as the Asian actors.
 
-Another interesting fact is that an old popular actor like Clint Eastwood appears in 52 different films whereas the much younger actor Dwayne Johnson appears in 46 films. Even though Dwayne Johnson is much younger than Clint Eastwood, he appears in almost as many movies, which does indicate that newer films tends to use some of the same actors. Another reason this may be that movies today are produced much faster than they were when Clint Eastwood was a big star.   
+Another interesting fact is that an old popular actor like Clint Eastwood appears in 52 different films whereas the much younger actor Dwayne Johnson appears in 46 films. Even though Dwayne Johnson is much younger (and in an earlier stage of his career) than Clint Eastwood, he appears in almost as many movies, which does indicate that newer films tend to use more of the same actors. Another reason this may be the case is that movies today are produced much faster than they were when Clint Eastwood was a big star. This is especially relevant for the type of movie Dwayne Johnson is typically seen in, ranging from silly comedy movies to shallow action movies.   
 
 
 ### Community detection
