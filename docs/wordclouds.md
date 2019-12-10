@@ -96,7 +96,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldDramaWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewDramaWC.jpg" class="wordcloud_right" width="50%"/>
 
-  Once again "one" and "life" are often used. The words "love", "film", "find", and "family" are also used in both. In fact it is clear that a large aspect of drama movies is "family", since also words like "father", "mother", "home", "friend", and "son" are used in both old and new movies.
+  Once again "one" and "life" are often used. The words "love", "film", "find", and "family" are also used in both. In fact it is clear that a large aspect of drama movies is "family", since words like "father", "mother", "home", "friend", and "son" are also frequent in both old and new movies.
 
   <br><br>
 
