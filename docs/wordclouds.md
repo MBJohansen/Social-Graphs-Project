@@ -12,7 +12,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldActionWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewActionWC.jpg" class="wordcloud_right" width="50%"/>
 
-  The action genre for old and new movies are quite similar but there are some words which have been replaced. For example the word "kill" which is very often present in older movie plots where it is almost completely gone for new movie plots. Instead words such as "life", "world", and "man" occur more often.
+  The action genre for old and new movies are quite similar but there are some words which have been replaced. For example the word "kill" which is very often present in older movie plots is almost completely gone for new movie plots. Instead words such as "life", "world", and "man" occur more frequently.
 
   <br><br>
 
@@ -24,7 +24,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldAdventureWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewAdventureWC.jpg" class="wordcloud_right" width="50%"/>
 
-  For older adventure movies words like "escape", "return", "back", "find", and "take" occur more often than in newer adventure movies where again "world" and "life" are more often used. The word "one" is seen for both old and new which could mean that they both revolve around a single protagonist who needs to escape or find something or about their life in general.
+  For older adventure movies, words like "escape", "return", "back", "find", and "take" occur more often than in newer adventure movies where once again the words "world" and "life" are more frequent. When taking a closer look, the two categories do have some similarities in the plots described. Both new and old adventure movies seem to describe some type of journey, using words such as "arrive", "return", "go", and "leave" for old movies, and "back", "trip", and "journey" for new movies. 
 
   <br><br>
 
@@ -36,7 +36,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldAnimationWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewAnimationWC.jpg" class="wordcloud_right" width="50%"/>
 
-  For old animation movies certain names such as Daffy, Tom and Jerry are often used in plot descriptions which could mean that cartoons with these characters dominate the genre. Again words like "life" and "world" are often used in the newer plot descriptions, but also "new" and "friend" are much more present for newer movies. In both old and new movies the words "one" and "find" are present.
+  For old animation movies certain names such as Daffy, Tom and Jerry are often used in plot descriptions which could mean that cartoons with these characters dominate the genre. Again words like "life" and "world" are often used in the newer plot descriptions, but also "new" and "friend" are much more present for newer movies. In both old and new movies the words "one" and "find" are present. It is interesting to see the distinct shift in the complexity of plots going from old to new movies. New animation films seem to be much more simliar to other genres, suggesting a more common plotline, while old movies seem to be very centered around the characters rather than a deep plot. 
 
   <br><br>
 
