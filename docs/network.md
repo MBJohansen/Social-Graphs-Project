@@ -12,20 +12,9 @@ The initial analysis of the network included making a degree distribution.
 
 It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely many small independent movies. Furthermore there are many movies with an extremely high degree. Many of the
 
-When exploring the dominance of certain actors within a given genre, the notebook show that some actors does indeed appear in many different movies within the same genre and these film may thus seem more similar. Actors which seemed to dominate certain genres was mostly seen in Asian films. The reason for this may be that Asia produces a lot of films where the same popular actor is used again and again.     
+When exploring the dominance of certain actors within a given genre, the notebook show that some actors does indeed appear in many different movies within the same genre and these film may thus seem more similar. Actors which seemed to dominate certain genres was mostly seen in Asian films. The reason for this may be that Asia produces a lot of films where the same popular actor is used again and again. This part of the analysis was also affected by the fact that the dataset is heavily dominated by Asian actors and films. This meant that none of the popular actors seen in Hollywood movies did not appear in near as many films as the Asian actors.
 
-
-**Notes**
-- Kæmpe dataset, men domineret af bollywood film
-- Mange bollywood film er utroligt meget connected (degree distribution viser mange bollywood for degree over 700)
-- Bollywood skuespillere er med i utroligt mange film (Brahmanandam er i 798 film (275 action film))
-   Derfor er de skuespillere som vi forventede at se ikke i nærheden af top brugte skuespillere
-   For eksempel teori om at Liam Neeson ofte ses i action film -> han er med i 81 film i alt hvilket er meget, men ingenting i forhold til Bollywood. (Liam Nesson er i top 1200 for action film)
-   Clint Eastwood vs Dwayne johnson (52 vs 46 film): teori om at Dwayne Johnson er med i mange film er korrekt, da Clint Eastwood er ældre, men Dwayne Johnson har næsten indhentet ham. (Husk at film nok blev produceret langsommere for mange år siden.)
-
-
-
-
+Another interesting fact is that an old popular actor like Clint Eastwood appears in 52 different films whereas the much younger actor Dwayne Johnson appears in 46 films. Even though Dwayne Johnson is much younger than Clint Eastwood, he appears in almost as many movies, which does indicate that newer films tends to use some of the same actors. Another reason this may be that movies today are produced much faster than they were when Clint Eastwood was a big star.   
 
 
 ### Community detection
