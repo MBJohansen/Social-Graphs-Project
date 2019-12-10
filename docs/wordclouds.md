@@ -36,7 +36,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldAnimationWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewAnimationWC.jpg" class="wordcloud_right" width="50%"/>
 
-  For old animation movies certain names such as Daffy, Tom and Jerry are often used in plot descriptions which could mean that cartoons with these characters dominate the genre. Again words like "life" and "world" are often used in the newer plot descriptions, but also "new" and "friend" are much more present for newer movies. In both old and new movies the words "one" and "find" are present. It is interesting to see the distinct shift in the complexity of plots going from old to new movies. New animation films seem to be much more simliar to other genres, suggesting a more common plotline, while old movies seem to be very centered around the characters rather than a deep plot.
+  For old animation movies certain names such as Daffy, Tom and Jerry are often used in plot descriptions which could mean that cartoons with these characters dominate the genre. Again words like "life" and "world" are often used in the newer plot descriptions, but also "new" and "friend" are much more present for newer movies. In both old and new movies the words "one" and "find" are present. It is interesting to see the distinct shift in the complexity of plots going from old to new movies. New animation films seem to be much more similar to other genres, suggesting a more common plotline, while old movies seem to be very centered around the characters rather than a deep plot.
 
   <br><br>
 
@@ -48,7 +48,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldBiographyWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewBiographyWC.jpg" class="wordcloud_right" width="50%"/>
 
-  In the biography genre the words "one" and "life" occur often for both old and new movies, which makes sense since biographies often revolve around the life of some person. Notably the word "documentary" are present in the word cloud for new movies which is a clear sign of genres being mixed since many movies include several genres. Furthermore the word "film" occurs frequently in the plot descriptions. This could be due to the type of genre since a biography is often based on facts and the word "film" is also seen in plot descriptions for the genres; Documentary, History, and News likely due to the need to clarify that the production is a film rather than an episode. This is typically not necessary in more traditional movie genres such as comedy and adventure.
+  In the biography genre the words "one" and "life" occur often for both old and new movies, which makes sense since biographies often revolve around the life of some person. Notably the word "documentary" are present in the word cloud for new movies which is a clear sign of genres being mixed since many movies include several genres. Furthermore the word "film" occurs frequently in the plot descriptions. This could be due to the type of genre since a biography is often based on facts and the word "film" is also seen frequently in plot descriptions for the genres; Documentary, History, and News which might be because of how a documentary plot (or other fact based movie) is written. It might for example be natural to write that this film is about some interesting person and his/her fight against something. While in other fictional movies it might not be natural to write "this film is about". 
 
   <br><br>
 
@@ -72,7 +72,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldCrimeWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewCrimeWC.jpg" class="wordcloud_right" width="50%"/>
 
-  The word cloud for old crime movies are very different from the word clouds seen previously since there are many names of persons. The abundance of names and suggests that the genre is more dominated by certain actors or characters than by common plotlines. Newer crime movies on the other hand include words such as "life", "one", "find", and "new", which is also seen in several other word clouds, especially for new movies but has some genre specific words such as "police" and "killer" which make a lot of sense.
+  The word cloud for old crime movies are very different from the word clouds seen previously since there are many names of persons. The abundance of names suggest that the genre is more dominated by certain actors or characters than by common plotlines. Newer crime movies on the other hand include words such as "life", "one", "find", and "new", which is also seen in several other word clouds, but has some genre specific words such as "police" and "killer" which make a lot of sense.
 
   <br><br>
 
