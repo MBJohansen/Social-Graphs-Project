@@ -48,7 +48,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldBiographyWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewBiographyWC.jpg" class="wordcloud_right" width="50%"/>
 
-  In the biography genre the words "one" and "life" occur often for both old and new movies, which makes sense since biographies often revolve around a certain person who has accomplished something remarkable in their life. Notably the word "documentary" are present in the word cloud for new movies which is a clear sign of genres being mixed since many movies include several genres. Furthermore the word "film" occurs often in the plot descriptions. This could be due to the type of genre since a biography is often based on facts and the word "film" is seen often also seen in plot descriptions for the genres; Documentary, History, and News.
+  In the biography genre the words "one" and "life" occur often for both old and new movies, which makes sense since biographies often revolve around the life of some person. Notably the word "documentary" are present in the word cloud for new movies which is a clear sign of genres being mixed since many movies include several genres. Furthermore the word "film" occurs frequently in the plot descriptions. This could be due to the type of genre since a biography is often based on facts and the word "film" is also seen in plot descriptions for the genres; Documentary, History, and News likely due to the need to clarify that the production is a film rather than an episode. This is typically not necessary in more traditional movie genres such as comedy and adventure. 
 
   <br><br>
 
