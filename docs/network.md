@@ -10,9 +10,23 @@ The initial analysis of the network included making a degree distribution.
 
 ![](images/DegreeDistribution.jpg)
 
-It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely many small independent movies. Furthermore there are many movies with an extremely high degree. Many of the 
+It is seen that the degree distribution follows a power-law distribution. It is seen that many movies have a very low degree. This makes sense since there are likely many small independent movies. Furthermore there are many movies with an extremely high degree. Many of the
 
-When exploring the dominance of certain actors within a given genre, the notebook show that some actors does indeed appear in many different movies within the same genre and these film may thus seem more similar. Actors which seemed to dominate certain genres was mostly seen in Asian films. The reason for this may be that Asia produces a lot of films where the same popular actor is used again and again.      
+When exploring the dominance of certain actors within a given genre, the notebook show that some actors does indeed appear in many different movies within the same genre and these film may thus seem more similar. Actors which seemed to dominate certain genres was mostly seen in Asian films. The reason for this may be that Asia produces a lot of films where the same popular actor is used again and again.     
+
+
+**Notes**
+- Kæmpe dataset, men domineret af bollywood film
+- Mange bollywood film er utroligt meget connected (degree distribution viser mange bollywood for degree over 700)
+- Bollywood skuespillere er med i utroligt mange film (Brahmanandam er i 798 film (275 action film))
+   Derfor er de skuespillere som vi forventede at se ikke i nærheden af top brugte skuespillere
+   For eksempel teori om at Liam Neeson ofte ses i action film -> han er med i 81 film i alt hvilket er meget, men ingenting i forhold til Bollywood. (Liam Nesson er i top 1200 for action film)
+   Clint Eastwood vs Dwayne johnson (52 vs 46 film): teori om at Dwayne Johnson er med i mange film er korrekt, da Clint Eastwood er ældre, men Dwayne Johnson har næsten indhentet ham. (Husk at film nok blev produceret langsommere for mange år siden.)
+
+
+
+
+
 
 ### Community detection
 Community detection is another way of examining the network. Community detection is a way to find underlying communities within a network, if it exists. A community within the graph, are locally dense connected subgraphs of the network. [4] In this case the underlying community structure is the genres which, if certain actors dominate specific genres, should be somewhat easy to find. If certain actors dominate a genre, the subgraph for that genre should be more dense and should therefore be easier for the community detection algorithm to find. The algorithm partitions the graph so that the *modularity* is maximized. This means that the network is partitioned into subgraphs with dense connections within the partition but sparse connections to nodes from other partitions. [[2]](http://networksciencebook.com/chapter/9#modularity)
