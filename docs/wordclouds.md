@@ -72,7 +72,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldCrimeWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewCrimeWC.jpg" class="wordcloud_right" width="50%"/>
 
-  The word cloud for old crime movies are very different from the word clouds seen previously since there are many names of persons and/or places where as the word cloud for new crime movies include words such as "life", "one", "find", and "new", which is also seen in several other word clouds, especially for new movies.
+  The word cloud for old crime movies are very different from the word clouds seen previously since there are many names of persons. The abundance of names and suggests that the genre is more dominated by certain actors or characters than by common plotlines. Newer crime movies on the other hand include words such as "life", "one", "find", and "new", which is also seen in several other word clouds, especially for new movies but has some genre specific words such as "police" and "killer" which make a lot of sense. 
 
   <br><br>
 
