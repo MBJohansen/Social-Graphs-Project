@@ -11,4 +11,8 @@ Lastly, the analysis of the actor network will also be conducted. This will show
 
 Once the analysis has been conducted, the findings will be discussed and reflected upon.
 
+### Explainer Notebook
+
+The explainer notebook for the project shows the code for performing the analysis shown on this website and can be found [here](https://github.com/MBJohansen/Social-Graphs-Project/blob/master/Project.ipynb).
+
 [Next page: Data](data.md)
