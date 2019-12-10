@@ -192,7 +192,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldThrillerWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewThrillerWC.jpg" class="wordcloud_right" width="50%"/>
 
-  The words "find" and "one" are very frequent in both new and old thriller movie plots, where "life" is more frequent in new movie plots and "kill" more frequent in old movie plots. For old movies plots the words "police" and "take" are more frequent, in fact "police" is not present at all for new movies. Instead words like "friend", "family" and "young" are more frequent.
+  The words "find" and "one" are very frequent in both new and old thriller movie plots, where "life" is more frequent in new movie plots and "kill" more frequent in old movie plots. For old movies plots the words "police" and "take" are more frequent, in fact "police" is not present at all for new movies. Instead words like "friend", "family" and "young" are more frequent. This is pretty interesting as it suggests a change in the common plot of thrillers. Old thrillers seem to be quite simliar to new crime movies, whereas new thrillers seem much more broad. New thrillers also seem to be more centered around families rather than police work. 
 
   <br><br>
 
@@ -204,7 +204,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldWesternWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewWesternWC.jpg" class="wordcloud_right" width="50%"/>
 
-  As seen on the word clouds above old and new western movies are very similar and it is very clear what entities are often in western movies, such as a "town", "outlaws", "sheriff", and "man" or "men" who are fighting the outlaws to protect the town and their family. Again the word "one" appears frequently in both, where "life" again is much more frequent in new. The old movie plots contain the words "kill" and "killed" more frequently than the new movie plots. Furthermore words like "take", "back", "horse", and "indian" are more frequent for the old movies.
+  As seen in the word clouds above, old and new western movies are very similar and it is very clear what entities are often in western movies, such as a "town", "outlaws", "sheriff", and "man" or "men" who are fighting the outlaws to protect the town and their family. Again the word "one" appears frequently in both, where "life" again is much more frequent in new. The old movie plots contain the words "kill" and "killed" more frequently than the new movie plots. Furthermore words like "take", "back", "horse", and "indian" are more frequent for the old movies.
 
   <br><br>
 
@@ -212,7 +212,7 @@ Word clouds have been created for old movies and new movies separately for each 
 
 
 ### Overall Comparison
-Overall there is not much change from old to new movies since many words in the word clouds fit their genre very well. Although this might also suggest that old and new movies have not changed over time, e.g. that new action movies are the same as old action movies based on this. It is also seen in some genres that the frequent words gets less violent from old to new. This is for example seen in the action, horror, and thriller genres, where the words "kill" are very frequent in the old movie plot descriptions but not in the new ones. **Why could this be?**
+Overall there is not much change from old to new movies since many words in the word clouds fit their genre very well. Although this might also suggest that old and new movies have not changed over time, e.g. that new action movies are the same as old action movies based on this. It is also seen in some genres that the frequent words become less violent from old to new. This is for example seen in the action, horror, and thriller genres, where the words "kill" are very frequent in the old movie plot descriptions but not in the new ones. **Why could this be?**
 
 
 
