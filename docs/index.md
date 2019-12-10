@@ -13,6 +13,6 @@ Once the analysis has been conducted, the findings will be discussed and reflect
 
 ### Explainer Notebook
 
-The explainer notebook for the project shows the code for performing the analysis shown on this website and can be found [here](https://github.com/MBJohansen/Social-Graphs-Project/blob/master/Project.ipynb).
+The explainer notebook for the project shows the code for performing the analysis shown on this website and can be found [here](https://nbviewer.jupyter.org/github/MBJohansen/Social-Graphs-Project/blob/master/Project.ipynb).
 
 [Next page: Data](data.md)
