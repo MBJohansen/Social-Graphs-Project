@@ -108,7 +108,7 @@ Word clouds have been created for old movies and new movies separately for each 
   <img src="images/wordclouds/OldFantasyWC.jpg" class="wordcloud_left" width="50%"/>
   <img src="images/wordclouds/NewFantasyWC.jpg" class="wordcloud_right" width="50%"/>
 
-  Again there are several words included in both old and new movie plot description which have also been used in many previous plot descriptions. These are for example "find" and "one" which are used for both old and new and "world" and "life" which is used much more for new movies. For old movies the words "back" and "return" are used much more than for new movies, where "young" and "love" are used more frequently in new movie plots.
+  Again there are several words included in both old and new movie plot description which have also been used in many previous plot descriptions. These are for example "find" and "one" which are used for both old and new and "world" and "life" which is used much more for new movies. For old movies the words "back" and "return" are used much more frequently than for new movies. This suggests that new fantasy movies are becoming more diverse as they do not really contain any clear genre specific words whereas old fantasy movies seem to be more similar to adventure and action movies in general suggesting a more narrow genre mixing. 
 
   <br><br>
 
